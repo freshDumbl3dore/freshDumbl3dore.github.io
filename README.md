@@ -1,3 +1,3 @@
 # freshDumbl3dore.github.io
 
-https://freshdumbl3dore.github.io/index.html
+https://freshdumbl3dore.github.io/
